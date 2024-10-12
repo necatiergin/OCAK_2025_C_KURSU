@@ -2,7 +2,6 @@
 📅 Kurs __11 Ocak 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
-
 ✅ Programın toplam ücreti Aralık ayında açıklanacaktır. Öğrenci olanlar için kurs ücretinde %10 indirim uygulanacaktır. Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir. Kurs ücreti 2 taksit olarak ödenebilir.
 <!---💰️ Programın toplam ücreti **18.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **16.500** &#8378;'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir. Bireysel katılımcılar kurs ücretini 2 taksit halinde ödeyebilir.<br><br>
