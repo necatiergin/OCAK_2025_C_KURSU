@@ -7,7 +7,8 @@
 ✅ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
 Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
 Kurs ücreti 2 taksit olarak ödenebilir.
-Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir.<br>
+Kurumsal katılımlarda kurs ücretine KDV dahil değildir.<br>
+Bireysel katılımlar için kurs ücretine KDV dahildir.<br>
 
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
