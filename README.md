@@ -1,5 +1,5 @@
 ✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
-✅ Bu kurs (Plepa Eğitim Hizmetleri)[https://plepa.com/] tarafından düzenlenmektedir.<br><br>
+✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br><br>
 ✅ Kurs eğitmeni Necati Ergin'dir.<br><br>
 📅 Kurs __11 Ocak 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında yapılacaktır.<br><br>
