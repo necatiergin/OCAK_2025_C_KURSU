@@ -16,7 +16,6 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
 
-
 ## Kursla ilgili bağlantılar:
 <!---&#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/OCAK_2024_ONLINE_C_KURSU/blob/main/kurs_tanitimi.md)<br>--->
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
