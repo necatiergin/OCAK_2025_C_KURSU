@@ -2,10 +2,11 @@
 📅 Kurs __11 Ocak 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
-ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır. Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
+ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır. 
+Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
+Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
 ✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
 ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br><br>
-ℹ️ Kurs gerçek zamanlıdır. Öğrenciler ders sırasında eğitmene soru sorabilirler. Öğrenciler dersleri kurs sistemimiz üzerinden kayıtlardan da izleyebilirler. <br><br>
 ✅ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
 Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
 Kurs ücreti 2 taksit olarak ödenebilir.<br>
