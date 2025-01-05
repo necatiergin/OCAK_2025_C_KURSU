@@ -7,8 +7,8 @@
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
 ✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
 ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br><br>
-✅ Programın toplam ücreti **28.000 TL**'dir.  
-Öğrenci olanlar için kurs ücreti **26.000 TL**'dir. <br> 
+✅ Programın toplam ücreti **27.000 TL**'dir.  
+Öğrenci olanlar için kurs ücreti **25.000 TL**'dir. <br> 
 Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir.<br>
 
